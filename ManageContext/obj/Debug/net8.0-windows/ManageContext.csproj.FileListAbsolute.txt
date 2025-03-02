@@ -1,0 +1,17 @@
+C:\Mac\Home\Desktop\26.02.2025\Fluent_API_hw\ManageContext\obj\Debug\net8.0-windows\ManageContext.csproj.AssemblyReference.cache
+C:\Mac\Home\Desktop\26.02.2025\Fluent_API_hw\ManageContext\obj\Debug\net8.0-windows\ManageContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mac\Home\Desktop\26.02.2025\Fluent_API_hw\ManageContext\obj\Debug\net8.0-windows\ManageContext.AssemblyInfoInputs.cache
+C:\Mac\Home\Desktop\26.02.2025\Fluent_API_hw\ManageContext\obj\Debug\net8.0-windows\ManageContext.AssemblyInfo.cs
+C:\Mac\Home\Desktop\26.02.2025\Fluent_API_hw\ManageContext\obj\Debug\net8.0-windows\ManageContext.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Desktop\26.02.2025\Fluent_API_hw\ManageContext\bin\Debug\net8.0-windows\ManageContext.deps.json
+C:\Mac\Home\Desktop\26.02.2025\Fluent_API_hw\ManageContext\bin\Debug\net8.0-windows\ManageContext.runtimeconfig.json
+C:\Mac\Home\Desktop\26.02.2025\Fluent_API_hw\ManageContext\bin\Debug\net8.0-windows\ManageContext.dll
+C:\Mac\Home\Desktop\26.02.2025\Fluent_API_hw\ManageContext\bin\Debug\net8.0-windows\ManageContext.pdb
+C:\Mac\Home\Desktop\26.02.2025\Fluent_API_hw\ManageContext\bin\Debug\net8.0-windows\Models.dll
+C:\Mac\Home\Desktop\26.02.2025\Fluent_API_hw\ManageContext\bin\Debug\net8.0-windows\Models.pdb
+C:\Mac\Home\Desktop\26.02.2025\Fluent_API_hw\ManageContext\obj\Debug\net8.0-windows\ManageCo.1AB7E071.Up2Date
+C:\Mac\Home\Desktop\26.02.2025\Fluent_API_hw\ManageContext\obj\Debug\net8.0-windows\ManageContext.dll
+C:\Mac\Home\Desktop\26.02.2025\Fluent_API_hw\ManageContext\obj\Debug\net8.0-windows\refint\ManageContext.dll
+C:\Mac\Home\Desktop\26.02.2025\Fluent_API_hw\ManageContext\obj\Debug\net8.0-windows\ManageContext.pdb
+C:\Mac\Home\Desktop\26.02.2025\Fluent_API_hw\ManageContext\obj\Debug\net8.0-windows\ManageContext.genruntimeconfig.cache
+C:\Mac\Home\Desktop\26.02.2025\Fluent_API_hw\ManageContext\obj\Debug\net8.0-windows\ref\ManageContext.dll
