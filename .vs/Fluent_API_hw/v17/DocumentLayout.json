@@ -1,34 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Mac\\Home\\Desktop\\26.02.2025\\Fluent_API_hw\\",
+  "WorkspaceRootPath": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{658A33E7-8694-4ADB-B396-027BD9CAE2EF}|ManageContext\\ManageContext.csproj|c:\\mac\\home\\desktop\\26.02.2025\\fluent_api_hw\\managecontext\\managecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{658A33E7-8694-4ADB-B396-027BD9CAE2EF}|ManageContext\\ManageContext.csproj|solutionrelative:managecontext\\managecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD0EEBF6-169B-45FC-A489-FADE359A40A9}|Fluent_API_hw\\Fluent_API_hw.csproj|c:\\mac\\home\\desktop\\27.02.2025\\fluent_api_hw\\fluent_api_hw\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0EEBF6-169B-45FC-A489-FADE359A40A9}|Fluent_API_hw\\Fluent_API_hw.csproj|solutionrelative:fluent_api_hw\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3404A87-A861-465A-AEEF-8892959D19C0}|Models\\Models.csproj|c:\\mac\\home\\desktop\\26.02.2025\\fluent_api_hw\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3404A87-A861-465A-AEEF-8892959D19C0}|Models\\Models.csproj|solutionrelative:models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD0EEBF6-169B-45FC-A489-FADE359A40A9}|Fluent_API_hw\\Fluent_API_hw.csproj|c:\\mac\\home\\desktop\\27.02.2025\\fluent_api_hw\\fluent_api_hw\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0EEBF6-169B-45FC-A489-FADE359A40A9}|Fluent_API_hw\\Fluent_API_hw.csproj|solutionrelative:fluent_api_hw\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD0EEBF6-169B-45FC-A489-FADE359A40A9}|Fluent_API_hw\\Fluent_API_hw.csproj|c:\\mac\\home\\desktop\\26.02.2025\\fluent_api_hw\\fluent_api_hw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BD0EEBF6-169B-45FC-A489-FADE359A40A9}|Fluent_API_hw\\Fluent_API_hw.csproj|c:\\mac\\home\\desktop\\27.02.2025\\fluent_api_hw\\fluent_api_hw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD0EEBF6-169B-45FC-A489-FADE359A40A9}|Fluent_API_hw\\Fluent_API_hw.csproj|solutionrelative:fluent_api_hw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD0EEBF6-169B-45FC-A489-FADE359A40A9}|Fluent_API_hw\\Fluent_API_hw.csproj|C:\\Mac\\Home\\Desktop\\26.02.2025\\Fluent_API_hw\\fluent_api_hw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BD0EEBF6-169B-45FC-A489-FADE359A40A9}|Fluent_API_hw\\Fluent_API_hw.csproj|C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\fluent_api_hw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BD0EEBF6-169B-45FC-A489-FADE359A40A9}|Fluent_API_hw\\Fluent_API_hw.csproj|solutionrelative:fluent_api_hw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF894DEA-A887-4CC5-B769-66655B0F60C6}|Solution Items{AF894DEA-A887-4CC5-B769-66655B0F60C6}|C:\\Mac\\Home\\Desktop\\26.02.2025\\Fluent_API_hw\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AF894DEA-A887-4CC5-B769-66655B0F60C6}|Solution Items{AF894DEA-A887-4CC5-B769-66655B0F60C6}|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B3404A87-A861-465A-AEEF-8892959D19C0}|Models\\Models.csproj|c:\\mac\\home\\desktop\\27.02.2025\\fluent_api_hw\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3404A87-A861-465A-AEEF-8892959D19C0}|Models\\Models.csproj|solutionrelative:models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD0EEBF6-169B-45FC-A489-FADE359A40A9}|Fluent_API_hw\\Fluent_API_hw.csproj|c:\\mac\\home\\desktop\\26.02.2025\\fluent_api_hw\\fluent_api_hw\\fluent_api_hw.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{B3404A87-A861-465A-AEEF-8892959D19C0}|Models\\Models.csproj|c:\\mac\\home\\desktop\\27.02.2025\\fluent_api_hw\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3404A87-A861-465A-AEEF-8892959D19C0}|Models\\Models.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3404A87-A861-465A-AEEF-8892959D19C0}|Models\\Models.csproj|c:\\mac\\home\\desktop\\27.02.2025\\fluent_api_hw\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3404A87-A861-465A-AEEF-8892959D19C0}|Models\\Models.csproj|solutionrelative:models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658A33E7-8694-4ADB-B396-027BD9CAE2EF}|ManageContext\\ManageContext.csproj|c:\\mac\\home\\desktop\\27.02.2025\\fluent_api_hw\\managecontext\\managecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658A33E7-8694-4ADB-B396-027BD9CAE2EF}|ManageContext\\ManageContext.csproj|solutionrelative:managecontext\\managecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0EEBF6-169B-45FC-A489-FADE359A40A9}|Fluent_API_hw\\Fluent_API_hw.csproj|c:\\mac\\home\\desktop\\27.02.2025\\fluent_api_hw\\fluent_api_hw\\fluent_api_hw.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{BD0EEBF6-169B-45FC-A489-FADE359A40A9}|Fluent_API_hw\\Fluent_API_hw.csproj|solutionrelative:fluent_api_hw\\fluent_api_hw.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3404A87-A861-465A-AEEF-8892959D19C0}|Models\\Models.csproj|c:\\mac\\home\\desktop\\26.02.2025\\fluent_api_hw\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3404A87-A861-465A-AEEF-8892959D19C0}|Models\\Models.csproj|solutionrelative:models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD0EEBF6-169B-45FC-A489-FADE359A40A9}|Fluent_API_hw\\Fluent_API_hw.csproj|C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\fluent_api_hw\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD0EEBF6-169B-45FC-A489-FADE359A40A9}|Fluent_API_hw\\Fluent_API_hw.csproj|solutionrelative:fluent_api_hw\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0EEBF6-169B-45FC-A489-FADE359A40A9}|Fluent_API_hw\\Fluent_API_hw.csproj|C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\fluent_api_hw\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD0EEBF6-169B-45FC-A489-FADE359A40A9}|Fluent_API_hw\\Fluent_API_hw.csproj|solutionrelative:fluent_api_hw\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0EEBF6-169B-45FC-A489-FADE359A40A9}|Fluent_API_hw\\Fluent_API_hw.csproj|C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\fluent_api_hw\\startwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD0EEBF6-169B-45FC-A489-FADE359A40A9}|Fluent_API_hw\\Fluent_API_hw.csproj|solutionrelative:fluent_api_hw\\startwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0EEBF6-169B-45FC-A489-FADE359A40A9}|Fluent_API_hw\\Fluent_API_hw.csproj|c:\\mac\\home\\desktop\\27.02.2025\\fluent_api_hw\\fluent_api_hw\\startwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0EEBF6-169B-45FC-A489-FADE359A40A9}|Fluent_API_hw\\Fluent_API_hw.csproj|solutionrelative:fluent_api_hw\\startwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0EEBF6-169B-45FC-A489-FADE359A40A9}|Fluent_API_hw\\Fluent_API_hw.csproj|c:\\mac\\home\\desktop\\27.02.2025\\fluent_api_hw\\fluent_api_hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0EEBF6-169B-45FC-A489-FADE359A40A9}|Fluent_API_hw\\Fluent_API_hw.csproj|solutionrelative:fluent_api_hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,53 +66,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\26.02.2025\\Fluent_API_hw\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Mac\\Home\\Desktop\\26.02.2025\\Fluent_API_hw\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-02T19:20:45.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Position.cs",
-              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\26.02.2025\\Fluent_API_hw\\Models\\Position.cs",
-              "RelativeDocumentMoniker": "Models\\Position.cs",
-              "ToolTip": "C:\\Mac\\Home\\Desktop\\26.02.2025\\Fluent_API_hw\\Models\\Position.cs",
-              "RelativeToolTip": "Models\\Position.cs",
-              "ViewState": "AgIAAAEAAACAzMzMzMwnwA0AAABOAAAAAAAAAA==",
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\Fluent_API_hw\\Registration.cs",
+              "RelativeDocumentMoniker": "Fluent_API_hw\\Registration.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\Fluent_API_hw\\Registration.cs",
+              "RelativeToolTip": "Fluent_API_hw\\Registration.cs",
+              "ViewState": "AgIAADMAAADwmZmZmVklwEsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T17:34:07.423Z",
+              "WhenOpened": "2025-03-03T15:37:32.708Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Worker.cs",
-              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\26.02.2025\\Fluent_API_hw\\Models\\Worker.cs",
-              "RelativeDocumentMoniker": "Models\\Worker.cs",
-              "ToolTip": "C:\\Mac\\Home\\Desktop\\26.02.2025\\Fluent_API_hw\\Models\\Worker.cs",
-              "RelativeToolTip": "Models\\Worker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Authorization.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\Fluent_API_hw\\Authorization.cs",
+              "RelativeDocumentMoniker": "Fluent_API_hw\\Authorization.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\Fluent_API_hw\\Authorization.cs",
+              "RelativeToolTip": "Fluent_API_hw\\Authorization.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAABwBcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T17:33:50.115Z"
+              "WhenOpened": "2025-03-03T15:22:48.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\Fluent_API_hw\\Form1.cs",
+              "RelativeDocumentMoniker": "Fluent_API_hw\\Form1.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\Fluent_API_hw\\Form1.cs",
+              "RelativeToolTip": "Fluent_API_hw\\Form1.cs",
+              "ViewState": "AgIAAB0AAAAAamZmZoY8wDwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T12:56:50.566Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\26.02.2025\\Fluent_API_hw\\Fluent_API_hw\\Form1.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\Fluent_API_hw\\Form1.cs",
               "RelativeDocumentMoniker": "Fluent_API_hw\\Form1.cs",
-              "ToolTip": "C:\\Mac\\Home\\Desktop\\26.02.2025\\Fluent_API_hw\\Fluent_API_hw\\Form1.cs [Design]",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\Fluent_API_hw\\Form1.cs [Design]",
               "RelativeToolTip": "Fluent_API_hw\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-02T12:56:08.184Z",
@@ -92,41 +121,122 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ManageContext.cs",
-              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\26.02.2025\\Fluent_API_hw\\ManageContext\\ManageContext.cs",
-              "RelativeDocumentMoniker": "ManageContext\\ManageContext.cs",
-              "ToolTip": "C:\\Mac\\Home\\Desktop\\26.02.2025\\Fluent_API_hw\\ManageContext\\ManageContext.cs",
-              "RelativeToolTip": "ManageContext\\ManageContext.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAowCEAAABVAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "Authorization.cs [Design]",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\Fluent_API_hw\\Authorization.cs",
+              "RelativeDocumentMoniker": "Fluent_API_hw\\Authorization.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\Fluent_API_hw\\Authorization.cs [Design]",
+              "RelativeToolTip": "Fluent_API_hw\\Authorization.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T13:11:55.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T15:14:32.716Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\26.02.2025\\Fluent_API_hw\\Fluent_API_hw\\Form1.cs",
-              "RelativeDocumentMoniker": "Fluent_API_hw\\Form1.cs",
-              "ToolTip": "C:\\Mac\\Home\\Desktop\\26.02.2025\\Fluent_API_hw\\Fluent_API_hw\\Form1.cs",
-              "RelativeToolTip": "Fluent_API_hw\\Form1.cs",
-              "ViewState": "AgIAADQAAAAA+v////8fwE8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "StartWindow.cs [Design]",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\Fluent_API_hw\\StartWindow.cs",
+              "RelativeDocumentMoniker": "Fluent_API_hw\\StartWindow.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\Fluent_API_hw\\StartWindow.cs [Design]",
+              "RelativeToolTip": "Fluent_API_hw\\StartWindow.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T12:56:50.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T15:06:27.314Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T15:19:40.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Fluent_API_hw.csproj",
-              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\26.02.2025\\Fluent_API_hw\\Fluent_API_hw\\Fluent_API_hw.csproj",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\Fluent_API_hw\\Fluent_API_hw.csproj",
               "RelativeDocumentMoniker": "Fluent_API_hw\\Fluent_API_hw.csproj",
-              "ToolTip": "C:\\Mac\\Home\\Desktop\\26.02.2025\\Fluent_API_hw\\Fluent_API_hw\\Fluent_API_hw.csproj",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\Fluent_API_hw\\Fluent_API_hw.csproj",
               "RelativeToolTip": "Fluent_API_hw\\Fluent_API_hw.csproj",
-              "ViewState": "AgIAAAEAAAAAmpmZmRkWwBwAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAABAMzMzM/MmwBwAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-02T13:16:31.81Z",
+              "WhenOpened": "2025-03-02T13:16:31.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\Models\\Worker.cs",
+              "RelativeDocumentMoniker": "Models\\Worker.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\Models\\Worker.cs",
+              "RelativeToolTip": "Models\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:33:50.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Registration.cs [Design]",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\Fluent_API_hw\\Registration.cs",
+              "RelativeDocumentMoniker": "Fluent_API_hw\\Registration.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\Fluent_API_hw\\Registration.cs [Design]",
+              "RelativeToolTip": "Fluent_API_hw\\Registration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T15:13:08.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StartWindow.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\Fluent_API_hw\\StartWindow.cs",
+              "RelativeDocumentMoniker": "Fluent_API_hw\\StartWindow.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\Fluent_API_hw\\StartWindow.cs",
+              "RelativeToolTip": "Fluent_API_hw\\StartWindow.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T15:10:25.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManageContext.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\ManageContext\\ManageContext.cs",
+              "RelativeDocumentMoniker": "ManageContext\\ManageContext.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\ManageContext\\ManageContext.cs",
+              "RelativeToolTip": "ManageContext\\ManageContext.cs",
+              "ViewState": "AgIAAAEAAACAMjMzM7MUwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T13:11:55.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\Fluent_API_hw\\Program.cs",
+              "RelativeDocumentMoniker": "Fluent_API_hw\\Program.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\Fluent_API_hw\\Program.cs",
+              "RelativeToolTip": "Fluent_API_hw\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T15:07:12.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\Models\\Position.cs",
+              "RelativeDocumentMoniker": "Models\\Position.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\Models\\Position.cs",
+              "RelativeToolTip": "Models\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:34:07.423Z",
               "EditorCaption": ""
             }
           ]

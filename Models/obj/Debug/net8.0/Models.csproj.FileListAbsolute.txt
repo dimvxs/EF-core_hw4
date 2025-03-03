@@ -9,3 +9,15 @@ C:\Mac\Home\Desktop\26.02.2025\Fluent_API_hw\Models\obj\Debug\net8.0\Models.dll
 C:\Mac\Home\Desktop\26.02.2025\Fluent_API_hw\Models\obj\Debug\net8.0\refint\Models.dll
 C:\Mac\Home\Desktop\26.02.2025\Fluent_API_hw\Models\obj\Debug\net8.0\Models.pdb
 C:\Mac\Home\Desktop\26.02.2025\Fluent_API_hw\Models\obj\Debug\net8.0\ref\Models.dll
+C:\Mac\Home\Desktop\27.02.2025\Fluent_API_hw\Models\bin\Debug\net8.0\Models.deps.json
+C:\Mac\Home\Desktop\27.02.2025\Fluent_API_hw\Models\bin\Debug\net8.0\Models.dll
+C:\Mac\Home\Desktop\27.02.2025\Fluent_API_hw\Models\bin\Debug\net8.0\Models.pdb
+C:\Mac\Home\Desktop\27.02.2025\Fluent_API_hw\Models\obj\Debug\net8.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mac\Home\Desktop\27.02.2025\Fluent_API_hw\Models\obj\Debug\net8.0\Models.AssemblyInfoInputs.cache
+C:\Mac\Home\Desktop\27.02.2025\Fluent_API_hw\Models\obj\Debug\net8.0\Models.AssemblyInfo.cs
+C:\Mac\Home\Desktop\27.02.2025\Fluent_API_hw\Models\obj\Debug\net8.0\Models.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Desktop\27.02.2025\Fluent_API_hw\Models\obj\Debug\net8.0\Models.sourcelink.json
+C:\Mac\Home\Desktop\27.02.2025\Fluent_API_hw\Models\obj\Debug\net8.0\Models.dll
+C:\Mac\Home\Desktop\27.02.2025\Fluent_API_hw\Models\obj\Debug\net8.0\refint\Models.dll
+C:\Mac\Home\Desktop\27.02.2025\Fluent_API_hw\Models\obj\Debug\net8.0\Models.pdb
+C:\Mac\Home\Desktop\27.02.2025\Fluent_API_hw\Models\obj\Debug\net8.0\ref\Models.dll

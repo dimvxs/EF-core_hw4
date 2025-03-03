@@ -6,8 +6,9 @@ namespace Fluent_API_hw
 {
     public class ManageContext: DbContext
     {
-       public DbSet<Worker> Workers { get; set; }
-       public DbSet<Position> Positions { get; set; }
+       public virtual DbSet<Worker> Workers { get; set; }
+       public virtual DbSet<Position> Positions { get; set; }
+       public virtual DbSet<Users> Users { get; set; }
 
 
 

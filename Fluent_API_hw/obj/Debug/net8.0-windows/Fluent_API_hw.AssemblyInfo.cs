@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fluent_API_hw")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7208441a9e9a1776b8a5ea0f5bb556ad61d531a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fluent_API_hw")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fluent_API_hw")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

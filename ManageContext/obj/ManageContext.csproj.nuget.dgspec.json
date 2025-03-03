@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Mac\\Home\\Desktop\\26.02.2025\\Fluent_API_hw\\ManageContext\\ManageContext.csproj": {}
+    "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\ManageContext\\ManageContext.csproj": {}
   },
   "projects": {
-    "C:\\Mac\\Home\\Desktop\\26.02.2025\\Fluent_API_hw\\ManageContext\\ManageContext.csproj": {
+    "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\ManageContext\\ManageContext.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Mac\\Home\\Desktop\\26.02.2025\\Fluent_API_hw\\ManageContext\\ManageContext.csproj",
+        "projectUniqueName": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\ManageContext\\ManageContext.csproj",
         "projectName": "ManageContext",
-        "projectPath": "C:\\Mac\\Home\\Desktop\\26.02.2025\\Fluent_API_hw\\ManageContext\\ManageContext.csproj",
+        "projectPath": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\ManageContext\\ManageContext.csproj",
         "packagesPath": "C:\\Users\\dima\\.nuget\\packages\\",
-        "outputPath": "C:\\Mac\\Home\\Desktop\\26.02.2025\\Fluent_API_hw\\ManageContext\\obj\\",
+        "outputPath": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\ManageContext\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Mac\\Home\\Desktop\\26.02.2025\\Fluent_API_hw\\Models\\Models.csproj": {
-                "projectPath": "C:\\Mac\\Home\\Desktop\\26.02.2025\\Fluent_API_hw\\Models\\Models.csproj"
+              "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\Models\\Models.csproj": {
+                "projectPath": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\Models\\Models.csproj"
               }
             }
           }
@@ -104,14 +104,14 @@
         }
       }
     },
-    "C:\\Mac\\Home\\Desktop\\26.02.2025\\Fluent_API_hw\\Models\\Models.csproj": {
+    "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Mac\\Home\\Desktop\\26.02.2025\\Fluent_API_hw\\Models\\Models.csproj",
+        "projectUniqueName": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Mac\\Home\\Desktop\\26.02.2025\\Fluent_API_hw\\Models\\Models.csproj",
+        "projectPath": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\dima\\.nuget\\packages\\",
-        "outputPath": "C:\\Mac\\Home\\Desktop\\26.02.2025\\Fluent_API_hw\\Models\\obj\\",
+        "outputPath": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

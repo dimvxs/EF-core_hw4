@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v0MA8sqnvx4=",
+  "dgSpecHash": "5mRbM7mPJfY=",
   "success": true,
-  "projectFilePath": "C:\\Mac\\Home\\Desktop\\26.02.2025\\Fluent_API_hw\\Fluent_API_hw\\Fluent_API_hw.csproj",
+  "projectFilePath": "C:\\Mac\\Home\\Desktop\\27.02.2025\\Fluent_API_hw\\Fluent_API_hw\\Fluent_API_hw.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dima\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\dima\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
